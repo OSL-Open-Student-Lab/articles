@@ -52,8 +52,8 @@
 
 Далее мы собрали корпус вместе с электроникой, установили термопары в муфельные печи и проверили на работоспособность.
 
-[!alt финал ](https://sun9-80.userapi.com/impg/8VkSNokwi3wApw8PlSdQ81E_hokFf3Z1KAQnLg/le6F1isoniM.jpg?size=1840x2096&quality=95&sign=384f772cc3d681df497939ae95366a7c&type=album)
-[!alt финал](https://sun9-28.userapi.com/impg/TccEJRasAeoqJUmQ3X-57alI11_S_CK5TW4G1A/u9G7jNMXWkM.jpg?size=1840x1320&quality=95&sign=c3f6ea8cbfde1d5dbcf71e254c08f6ad&type=album)
+![alt финал ](https://sun9-80.userapi.com/impg/8VkSNokwi3wApw8PlSdQ81E_hokFf3Z1KAQnLg/le6F1isoniM.jpg?size=1840x2096&quality=95&sign=384f772cc3d681df497939ae95366a7c&type=album)
+![alt финал](https://sun9-28.userapi.com/impg/TccEJRasAeoqJUmQ3X-57alI11_S_CK5TW4G1A/u9G7jNMXWkM.jpg?size=1840x1320&quality=95&sign=c3f6ea8cbfde1d5dbcf71e254c08f6ad&type=album)
 
 ---
 
