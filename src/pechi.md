@@ -44,17 +44,24 @@
 мы приступили к проектирования корпуса. Составив примерную компоновку корпуса мы принялись
 делать 3D модели каждого компонента в Fusion 360. А далее уже спроектировали сам корпус.
 
-<img src="https://sun9-35.userapi.com/impg/ihPscY7y8kmBRXhznQvzA2f1NOpP9-3aEkCxRA/HsQdci_2NPk.jpg?size=1920x1080&quality=95&sign=86b4e495eb478980273642b324740ac1&type=album" width="600" hieght="auto" align="center">
+<p align="center">
+  <img src="https://sun9-35.userapi.com/impg/ihPscY7y8kmBRXhznQvzA2f1NOpP9-3aEkCxRA/HsQdci_2NPk.jpg?size=1920x1080&quality=95&sign=86b4e495eb478980273642b324740ac1&type=album" width="600" hieght="auto" align="center">
+</p>
+
 
 Модель корпуса была разбита на три части: переднюю, заднюю крышку и основу.
 Эти детали были распечатаны на 3D принтере. Печать заняла около 10 часов.
 
+<p align="center">
 <img src="https://sun9-84.userapi.com/impg/C68tDJhAacva_rv7a2mD99AuOt1mUsPUUAojmA/S5VlnxVfxO0.jpg?size=1080x612&quality=95&sign=ec0188d0a32539f70ada16e2cfc78039&type=album" width="600" hieght="auto" align="center">
-
+<p>
+  
 Далее мы собрали корпус вместе с электроникой, установили термопары в муфельные печи и проверили на работоспособность.
 
+<p align="center">
 <img src="https://sun9-80.userapi.com/impg/8VkSNokwi3wApw8PlSdQ81E_hokFf3Z1KAQnLg/le6F1isoniM.jpg?size=1840x2096&quality=95&sign=384f772cc3d681df497939ae95366a7c&type=album" width="600" hieght="auto" align="center">
 <img src="(https://sun9-28.userapi.com/impg/TccEJRasAeoqJUmQ3X-57alI11_S_CK5TW4G1A/u9G7jNMXWkM.jpg?size=1840x1320&quality=95&sign=c3f6ea8cbfde1d5dbcf71e254c08f6ad&type=album" width="600" hieght="auto" align="center">
+</p>
 
 ---
 
