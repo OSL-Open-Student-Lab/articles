@@ -9,6 +9,7 @@
 <p align="center">
 <img src="https://sun9-55.userapi.com/impg/iIh3K7vBh4_prumo5oRm5jgNN-KnvFzLr9DB2w/_6t7Vuc4TP8.jpg?size=2560x1178&quality=95&sign=b0cdf95ef62f373f52b3997be1795dec&type=album" width="600" height="auto" align="center">
 </p>
+
 ## Задача
 
 Обеспечить точный мониторинг температуры трех муфельных печей одновременно
