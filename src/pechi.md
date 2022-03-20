@@ -48,7 +48,7 @@
 Модель корпуса была разбита на три части: переднюю, заднюю крышку и основу.
 Эти детали были распечатаны на 3D принтере. Печать заняла около 10 часов.
 
-[!alt деталь](https://sun9-84.userapi.com/impg/C68tDJhAacva_rv7a2mD99AuOt1mUsPUUAojmA/S5VlnxVfxO0.jpg?size=1080x612&quality=95&sign=ec0188d0a32539f70ada16e2cfc78039&type=album)
+![alt деталь](https://sun9-84.userapi.com/impg/C68tDJhAacva_rv7a2mD99AuOt1mUsPUUAojmA/S5VlnxVfxO0.jpg?size=1080x612&quality=95&sign=ec0188d0a32539f70ada16e2cfc78039&type=album)
 
 Далее мы собрали корпус вместе с электроникой, установили термопары в муфельные печи и проверили на работоспособность.
 
